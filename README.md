@@ -1,2 +1,2 @@
-# blogProject-v2
+# blogWebpage-v2
 Blog project
